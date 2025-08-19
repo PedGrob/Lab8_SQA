@@ -1,0 +1,5 @@
+value,choice,fromUnit,toUnit,expected
+50,temperature,celsius,fahrenheit,122
+10,mass,pound,kilogram,4.536
+5,liquid,pint,ml,2365.88
+15,pressure,pascal,bar,0
